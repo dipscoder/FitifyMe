@@ -1,4 +1,4 @@
-# NetlifyMe
+# FitifyMe
 
 ### How to run
 
